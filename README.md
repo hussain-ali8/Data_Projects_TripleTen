@@ -4,7 +4,6 @@ Projects I worked on while attending the Business Intelligence Analyst Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | AirBnB Project| The project task was to analyze popularity in New York City neighborhoods via reviews, property sizes and revenue. |
+| 2 | Business Analytics | The project was to about analyzing conversional funnels in phases of a customer's progression through the website |
+| 3 | Monitoring Returns | The project task was to analyze the root cause for customer returns. | 
